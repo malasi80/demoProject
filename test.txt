@@ -1,2 +1,8 @@
 welcome in test file
+
+
+second line test
+changed in branch
+
 master file changes
+
